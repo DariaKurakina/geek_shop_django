@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d12313c-179a-4bd4-853f-7c0852e5ec59" name="Default Changelist" comment="" />
+    <list default="true" id="8d12313c-179a-4bd4-853f-7c0852e5ec59" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geek_shop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/geek_shop/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainapp/templates/mainapp/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/mainapp/templates/mainapp/contacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainapp/templates/mainapp/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/mainapp/templates/mainapp/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainapp/templates/mainapp/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/mainapp/templates/mainapp/products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mainapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mainapp/views.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,14 +22,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1P8tCz6pKuepU8DWmfjdcRIprpM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -88,11 +101,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565267428377</updated>
-      <workItem from="1565267459953" duration="6624000" />
+      <workItem from="1565267459953" duration="7469000" />
+      <workItem from="1565614388517" duration="6320000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
